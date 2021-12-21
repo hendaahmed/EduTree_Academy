@@ -637,8 +637,9 @@ transform: scale(1.1);
 		footer .upper .upper-right div h3{
 			color: #555;
 			background-color: #eee;
-			padding: 20px 40px 20px 40px;
+			padding: 20px;
 			text-align: center;
+			width: 200px;
 		}
 		footer .upper .upper-right div h3:hover{
 			cursor: pointer;
